@@ -1,0 +1,16 @@
+# Secretos (nunca subir claves)
+.env
+
+# Audio temporal
+*.wav
+*.mp3
+*.m4a
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Aider
+.aider*
